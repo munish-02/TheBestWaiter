@@ -1,0 +1,404 @@
+{
+  "foodMenu": [
+    {
+      "name": "Classic Caesar Salad",
+      "price": 250,
+      "description": "Crisp romaine lettuce, homemade Caesar dressing, croutons, and Parmesan cheese."
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "price": 350,
+      "description": "Spaghetti with creamy egg-based sauce, pancetta, black pepper, and Parmesan."
+    },
+    {
+      "name": "Beef Wellington",
+      "price": 700,
+      "description": "Tender beef fillet wrapped in puff pastry, served with mushroom duxelles and red wine sauce."
+    },
+    {
+      "name": "Chicken Cordon Bleu",
+      "price": 450,
+      "description": "Chicken breast stuffed with ham and Swiss cheese, breaded, and served with Dijon cream sauce."
+    },
+    {
+      "name": "Grilled Portobello Mushrooms",
+      "price": 280,
+      "description": "Portobello mushrooms marinated and grilled, drizzled with balsamic glaze."
+    },
+    {
+      "name": "Seafood Paella",
+      "price": 550,
+      "description": "Spanish saffron rice cooked with shrimp, mussels, clams, chorizo, and vegetables."
+    },
+    {
+      "name": "Ratatouille",
+      "price": 320,
+      "description": "A Provencal vegetable medley of eggplant, zucchini, and bell peppers in a tomato sauce."
+    },
+    {
+      "name": "Beef Bourguignon",
+      "price": 480,
+      "description": "Slow-cooked beef stew with red wine, onions, carrots, and mushrooms."
+    },
+    {
+      "name": "Shrimp Scampi",
+      "price": 380,
+      "description": "Jumbo shrimp sautéed in garlic butter, white wine, and fresh herbs, served over linguine."
+    },
+    {
+      "name": "Quiche Lorraine",
+      "price": 300,
+      "description": "Savory pastry filled with bacon, Swiss cheese, and a creamy custard."
+    },
+    {
+      "name": "Grilled Lamb Chops",
+      "price": 600,
+      "description": "Tender lamb chops seasoned and grilled to perfection, served with mint jelly."
+    },
+    {
+      "name": "Beef Stroganoff",
+      "price": 420,
+      "description": "Sliced beef cooked in a creamy mushroom sauce, served over egg noodles."
+    },
+    {
+      "name": "Spinach and Ricotta Cannelloni",
+      "price": 340,
+      "description": "Pasta tubes filled with spinach and ricotta cheese, baked with tomato sauce and cheese."
+    },
+    {
+      "name": "Croque-Monsieur",
+      "price": 280,
+      "description": "Grilled ham and cheese sandwich topped with béchamel sauce."
+    },
+    {
+      "name": "Baked Salmon with Dill Sauce",
+      "price": 520,
+      "description": "Salmon fillet baked with a creamy dill sauce, served with steamed asparagus."
+    },
+    {
+      "name": "Truffle Risotto",
+      "price": 380,
+      "description": "Creamy Arborio rice cooked with truffle oil, Parmesan cheese, and a touch of white wine."
+    },
+    {
+      "name": "Mushroom and Gruyère Tart",
+      "price": 320,
+      "description": "Flaky pastry filled with mushrooms, Gruyère cheese, and fresh herbs."
+    },
+    {
+      "name": "Beef and Guinness Pie",
+      "price": 450,
+      "description": "Slow-cooked beef stewed in Guinness beer and topped with flaky pastry."
+    },
+    {
+      "name": "Chicken Marsala",
+      "price": 360,
+      "description": "Chicken breast cooked in a Marsala wine sauce with mushrooms and shallots."
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "price": 320,
+      "description": "Slices of breaded and fried eggplant, layered with marinara sauce and mozzarella."
+    },
+    {
+      "name": "Beef Tournedos",
+      "price": 620,
+      "description": "Grilled beef medallions with a rich red wine and shallot reduction, served with roasted potatoes."
+    },
+    {
+      "name": "Chicken Alfredo",
+      "price": 380,
+      "description": "Fettuccine pasta tossed with creamy Alfredo sauce and grilled chicken."
+    },
+    {
+      "name": "Quinoa and Vegetable Stir-Fry",
+      "price": 290,
+      "description": "Quinoa cooked with an array of colorful vegetables and a sesame soy glaze."
+    },
+    {
+      "name": "Smoked Salmon Eggs Benedict",
+      "price": 420,
+      "description": "Poached eggs and smoked salmon on an English muffin, topped with hollandaise sauce."
+    },
+    {
+      "name": "Lobster Bisque",
+      "price": 480,
+      "description": "A creamy lobster soup with a hint of sherry, served with crusty bread."
+    },
+    {
+      "name": "Spinach and Artichoke Dip",
+      "price": 290,
+      "description": "A creamy blend of spinach, artichokes, and cheese, served with toasted baguette slices."
+    },
+    {
+      "name": "Stuffed Bell Peppers",
+      "price": 350,
+      "description": "Bell peppers filled with a mixture of ground beef, rice, and tomato sauce, baked to perfection."
+    },
+    {
+      "name": "Prosciutto-Wrapped Asparagus",
+      "price": 320,
+      "description": "Fresh asparagus spears wrapped in prosciutto and drizzled with balsamic reduction."
+    },
+    {
+      "name": "Salmon Tartare",
+      "price": 380,
+      "description": "Diced salmon mixed with capers, red onions, and fresh herbs, served with crostini."
+    },
+    {
+      "name": "Roasted Butternut Squash Risotto",
+      "price": 340,
+      "description": "Creamy risotto with roasted butternut squash, sage, and Parmesan cheese."
+    },
+    {
+      "name": "Gourmet Mac and Cheese",
+      "price": 320,
+      "description": "Cavatappi pasta in a creamy four-cheese sauce, topped with breadcrumbs and baked."
+    },
+    {
+      "name": "Mediterranean Platter",
+      "price": 360,
+      "description": "Hummus, tabbouleh, falafel, and pita bread, served with olives and cucumber yogurt sauce."
+    },
+    {
+      "name": "Beef and Vegetable Kebabs",
+      "price": 420,
+      "description": "Marinated beef and assorted vegetables grilled on skewers, served with tzatziki sauce."
+    },
+    {
+      "name": "Caprese Salad",
+      "price": 280,
+      "description": "Fresh mozzarella, tomatoes, and basil, drizzled with balsamic glaze and olive oil."
+    },
+    {
+      "name": "Chicken Fricassee",
+      "price": 380,
+      "description": "Chicken stew with vegetables in a creamy white wine sauce, served with rice."
+    },
+    {
+      "name": "Roasted Beet and Goat Cheese Salad",
+      "price": 320,
+      "description": "Roasted beets, mixed greens, and crumbled goat cheese with a balsamic vinaigrette."
+    },
+    {
+      "name": "Mushroom Risotto",
+      "price": 340,
+      "description": "Creamy Arborio rice cooked with a variety of mushrooms, Parmesan, and white wine."
+    },
+    {
+      "name": "Beef Carpaccio",
+      "price": 450,
+      "description": "Thinly sliced raw beef served with arugula, Parmesan, and a lemon vinaigrette."
+    },
+    {
+      "name": "Gnocchi with Pesto",
+      "price": 320,
+      "description": "Soft potato dumplings served with homemade basil pesto and pine nuts."
+    },
+    {
+      "name": "Seafood Gumbo",
+      "price": 480,
+      "description": "Hearty seafood stew with shrimp, crab, and okra in a spicy tomato broth."
+    },
+    {
+      "name": "Tuna Nicoise Salad",
+      "price": 360,
+      "description": "A salad featuring seared tuna, olives, boiled eggs, green beans, and potatoes with a Dijon vinaigrette."
+    },
+    {
+      "name": "Lobster Thermidor",
+      "price": 750,
+      "description": "Lobster tail poached in a creamy white wine sauce, then broiled with cheese and breadcrumbs."
+    },
+    {
+      "name": "Sweet Potato Gnocchi",
+      "price": 340,
+      "description": "Soft sweet potato dumplings served with brown butter and sage."
+    },
+    {
+      "name": "Duck à l'Orange",
+      "price": 550,
+      "description": "Roasted duck with a tangy orange glaze, served with wild rice and steamed broccoli."
+    },
+    {
+      "name": "Shrimp and Lobster Ravioli",
+      "price": 480,
+      "description": "Homemade ravioli filled with shrimp and lobster, topped with a lobster cream sauce."
+    },
+    {
+      "name": "Spinach and Mushroom Quiche",
+      "price": 320,
+      "description": "Savory pastry filled with sautéed spinach, mushrooms, and Swiss cheese."
+    },
+    {
+      "name": "Beef and Barley Soup",
+      "price": 280,
+      "description": "Hearty soup with tender beef, barley, carrots, and celery in a rich broth."
+    },
+    {
+      "name": "Grilled Swordfish",
+      "price": 420,
+      "description": "Swordfish steak grilled with lemon butter and herbs, served with roasted vegetables."
+    },
+    {
+      "name": "Stuffed Chicken Roulade",
+      "price": 380,
+      "description": "Chicken breast stuffed with spinach and feta, wrapped in bacon, and served with a white wine sauce."
+    },
+    {
+      "name": "Ratatouille Crepe",
+      "price": 320,
+      "description": "Crepes filled with ratatouille and topped with melted cheese and fresh herbs."
+    },
+    {
+      "name": "Salmon Wellington",
+      "price": 480,
+      "description": "Salmon fillet wrapped in puff pastry with a dill cream sauce."
+    },
+    {
+      "name": "Beef and Mushroom Wellington",
+      "price": 550,
+      "description": "Beef fillet and mushrooms encased in puff pastry, served with a red wine reduction."
+    },
+    {
+      "name": "Artichoke and Parmesan Dip",
+      "price": 290,
+      "description": "Creamy dip made with artichokes and Parmesan cheese, served with toasted baguette slices."
+    },
+    {
+      "name": "Chicken and Leek Pie",
+      "price": 360,
+      "description": "Chicken and leeks in a creamy sauce, baked with a flaky pastry crust."
+    },
+    {
+      "name": "Mediterranean Stuffed Peppers",
+      "price": 350,
+      "description": "Bell peppers filled with a Mediterranean mixture of couscous, olives, and feta."
+    },
+    {
+      "name": "Mushroom Vol-au-Vent",
+      "price": 320,
+      "description": "Puff pastry filled with a creamy mushroom and herb mixture."
+    },
+    {
+      "name": "Grilled Octopus",
+      "price": 420,
+      "description": "Tender octopus grilled and served with lemon and olive oil."
+    },
+    {
+      "name": "Cauliflower and Broccoli Gratin",
+      "price": 320,
+      "description": "Roasted cauliflower and broccoli in a creamy cheese sauce, baked to perfection."
+    },
+    {
+      "name": "Beef Goulash",
+      "price": 380,
+      "description": "Beef stew with onions, paprika, and served with spaetzle."
+    },
+    {
+      "name": "Spinach and Feta Stuffed Chicken",
+      "price": 420,
+      "description": "Chicken breast stuffed with spinach and feta, drizzled with a lemon and herb sauce."
+    },
+    {
+      "name": "Chicken Piccata",
+      "price": 360,
+      "description": "Chicken breast sautéed in a lemon and caper sauce, served with angel hair pasta."
+    },
+    {
+      "name": "Seafood Linguine",
+      "price": 480,
+      "description": "Linguine pasta with a medley of seafood, including shrimp, mussels, and calamari in a white wine sauce."
+    },
+    {
+      "name": "Spinach and Gruyère Stuffed Mushrooms",
+      "price": 320,
+      "description": "Mushroom caps filled with a creamy spinach and Gruyère cheese mixture, baked until golden."
+    },
+    {
+      "name": "Lamb Moussaka",
+      "price": 450,
+      "description": "Layers of spiced lamb, eggplant, and bechamel sauce, baked to perfection."
+    },
+    {
+      "name": "Quail with Berry Sauce",
+      "price": 550,
+      "description": "Grilled quail served with a sweet berry reduction, accompanied by wild"
+    },
+  {
+    "name": "Lobster Ravioli",
+    "price": 520,
+    "description": "Homemade ravioli filled with lobster meat, served with a lobster cream sauce."
+  },
+  {
+    "name": "Asparagus and Provolone Frittata",
+    "price": 320,
+    "description": "A fluffy frittata with asparagus, Provolone cheese, and fresh herbs."
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "price": 280,
+    "description": "Chilled shrimp served with a zesty cocktail sauce and lemon wedges."
+  },
+  {
+    "name": "Beef Tagliata",
+    "price": 620,
+    "description": "Sliced grilled beef drizzled with balsamic reduction, arugula, and Parmesan."
+  },
+  {
+    "name": "Vegetarian Moussaka",
+    "price": 380,
+    "description": "Layers of roasted vegetables, lentils, and bechamel sauce, baked until golden."
+  },
+  {
+    "name": "Stuffed Flounder",
+    "price": 420,
+    "description": "Flounder fillet stuffed with crabmeat and topped with a lemon butter sauce."
+  },
+  {
+    "name": "Gorgonzola and Walnut Salad",
+    "price": 320,
+    "description": "Mixed greens, Gorgonzola cheese, and candied walnuts with a balsamic vinaigrette."
+  },
+  {
+    "name": "Beef and Vegetable Stir-Fry",
+    "price": 380,
+    "description": "Thinly sliced beef, bell peppers, and broccoli in a savory stir-fry sauce, served with rice."
+  },
+  {
+    "name": "Blue Cheese and Pear Tart",
+    "price": 340,
+    "description": "Flaky pastry filled with blue cheese, fresh pears, and drizzled with honey."
+  },
+  {
+    "name": "Seafood Chowder",
+    "price": 360,
+    "description": "Creamy soup filled with a variety of seafood, potatoes, and fresh herbs."
+  },
+  {
+    "name": "Pappardelle with Wild Mushroom Sauce",
+    "price": 340,
+    "description": "Wide pasta ribbons served with a rich wild mushroom and cream sauce."
+  },
+  {
+    "name": "Quail Eggs with Caviar",
+    "price": 480,
+    "description": "Quail eggs topped with caviar and served with toast points."
+  },
+  {
+    "name": "Chicken Florentine",
+    "price": 380,
+    "description": "Chicken breast topped with sautéed spinach and a creamy Mornay sauce."
+  },
+  {
+    "name": "Duck Confit",
+    "price": 550,
+    "description": "Duck leg slow-cooked in its own fat, served with roasted potatoes and green beans."
+  },
+  {
+    "name": "Potato Leek Soup",
+    "price": 280,
+    "description": "Creamy potato and leek soup garnished with chives and crème fraîche."
+  }
+]
+}
